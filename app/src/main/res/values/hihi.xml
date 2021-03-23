@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="CheckboxStyle">
-        <item name="colorAccent"> @color/white</item>  // for checked
-        <item name="android:textColorSecondary">@color/white</item>  // for unchecked
-
-    </style>
-</resources>

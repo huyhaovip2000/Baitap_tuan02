@@ -15,8 +15,8 @@ private TextView tv;
 //        TextView tv=(TextView) findViewById(R.id.textView35);
 //        tv.setPaintFlags(tv.getPaintFlags() | Paint.STRIKE_THRU_TEXT_FLAG);
 
-        // setContentView(R.layout.layout04);
-         setContentView(R.layout.layout01);
+         setContentView(R.layout.layout04);
+        // setContentView(R.layout.layout01);
         //setContentView(R.layout.layout02);
     }
     }
